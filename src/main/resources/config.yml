@@ -1,0 +1,6 @@
+# 配置文件示例
+backpack:
+  default-size: 45 # 默认仓库大小，9-45(最后一行留给默认按键)，必须是9的倍数
+  max-pages: 2     # 最大页数
+  previous-page-icon: 'ARROW' # 上一页图标类型
+  next-page-icon: 'ARROW'    # 下一页图标类型

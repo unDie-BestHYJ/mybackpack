@@ -1,0 +1,5 @@
+com\plugins\backpack\BackpackCommand.class
+com\plugins\backpack\StorageListener.class
+com\plugins\backpack\StorageManager.class
+com\plugins\backpack\Storage.class
+com\plugins\backpack\MyBackpack.class

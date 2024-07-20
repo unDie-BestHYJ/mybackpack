@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mybackpack">
+    <output-path>$PROJECT_DIR$/out/artifacts/mybackpack</output-path>
+    <root id="archive" name="mybackpack.jar">
+      <element id="module-output" name="backpack" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+name: MyBackpack
+version: 1.0
+main: com.plugins.backpack.MyBackpack
+api-version: 1.12
+commands:
+  backpack:
+    description: Open your backpack
+    usage: /backpack
